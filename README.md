@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there, I'm Rodrigo 👋
 
-<!--
-**RoAlencar/RoAlencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👀 About me
 
-Here are some ideas to get you started:
+- I'm a developer
+- Student in systems analysis and development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+
+- 💻    Java | Node
+- 🌐    HTML | CSS | PHP | JavaScript | XML | Bootstrap 
+- 🛢    PostgreSQL | SQL Server | Oracle DB | MySQL
+- 🔧    Git | VS Code | IntelliJ | Ecplise | Spring Tools Suite
+
+## GitHub Stats
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=roalencar&show_icons=true&hide_border=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roalencar&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook,html" />
+</p>
+
+## 💬 Let's talk
+
+  <a href = "mailto:roalencarx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigo-de-alencar-xavier-a873b4140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ ![Snake animation](https://github.com/roalencar/roalencar/blob/output/github-contribution-grid-snake.svg)
+ 
+</a>
