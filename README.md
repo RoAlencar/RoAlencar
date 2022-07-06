@@ -8,7 +8,7 @@
 ## 🛠️ Languages and Tools
 
 - 💻    Java | Node
-- 🌐    HTML | CSS | PHP | JavaScript | XML | Bootstrap 
+- 🌐    HTML | CSS | PHP | JavaScript | XML | Bootstrap | TypeScript
 - 🛢    PostgreSQL | SQL Server | Oracle DB | MySQL
 - 🔧    Git | VS Code | IntelliJ | Ecplise | Spring Tools Suite
 
