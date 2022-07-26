@@ -7,7 +7,7 @@
 
 ## 🛠️ Languages and Tools
 
-- 💻    Java |Spring Boot | Angular | Node
+- 💻    Java | Spring Boot | Angular | Node
 - 🌐    HTML | CSS | PHP | JavaScript | XML | Bootstrap | TypeScript
 - 🛢    PostgreSQL | SQL Server | Oracle DB | MySQL
 - 🔧    Git | VS Code | IntelliJ | Ecplise | Spring Tools Suite
