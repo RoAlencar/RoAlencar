@@ -1,27 +1,45 @@
-# Hi there, I'm Rodrigo 👋
+## 👋 Fala aí! Eu sou o Rodrigo
 
-## 👀 About me
+💻 Desenvolvedor backend com foco em **Java**, **Spring Boot**, **engenharia de software**, **arquitetura de software** e automação de processos com **Camunda**.  
+🌐 Também me viro muito bem no front com **Angular**, **JavaScript** e boas pitadas de **HTML/CSS**.  
+🛢️ Banco de dados? Manda que eu falo fluentemente com **PostgreSQL**, **Oracle**, **SQL Server** e **MySQL**.  
+📊 Já atuei com monitoramento, mensageria, microsserviços e performance usando **Dynatrace** e muito mais.  
+🎓 Pós-graduado em Arquitetura de Software pela FIAP.
 
-- I'm a developer
-- Student in systems analysis and development
+---
 
-## 🛠️ Languages and Tools
+### 🚀 Stack Técnica
 
-- 💻    Java | Spring Boot | Angular | Node
-- 🌐    HTML | CSS | PHP | JavaScript | XML | Bootstrap | TypeScript
-- 🛢    PostgreSQL | SQL Server | Oracle DB | MySQL
-- 🔧    Git | VS Code | IntelliJ | Ecplise | Spring Tools Suite
+#### Linguagens & Frameworks
+- **Java | Spring Boot | Angular | Node.js**
+- **HTML | CSS | PHP | JavaScript | TypeScript | Bootstrap | XML**
 
-## GitHub Stats
+#### Banco de Dados
+- **PostgreSQL | Oracle DB | SQL Server | MySQL**
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=roalencar&show_icons=true&hide_border=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roalencar&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook,html" />
-</p>
+#### Dev Tools
+- **Git | VS Code | IntelliJ | Eclipse | Spring Tool Suite**
+- **Maven | Docker | Dynatrace | Camunda**
 
-## 💬 Let's talk
+---
 
-  <a href = "mailto:roalencarx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodrigo-de-alencar-xavier-a873b4140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</a>
+### 💼 Projetos em destaque
+
+- 🔄 **Documentação Avançada de Camunda** — com exemplos, GIFs e integração com Spring Boot.
+- 💳 **Projeto ABU (Santander)** — cancelamento automático de cartões virtuais.
+- 📡 **Monitoramento SKY Fibra** — integração com Camunda e Sales Force, com análise BPMN e SQL.
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-de-alencar-xavier-a873b4140/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roalencarx@gmail.com)
+
+---
+
+### ✨ Sobre mim
+
+- Ex-barman 🍸 que hoje destila código em vez de drinks  
+- Pai coruja de uma menina de 7 anos 👧  
+- Curte rock pesado enquanto dá `debug` nos bugs 🎸  
